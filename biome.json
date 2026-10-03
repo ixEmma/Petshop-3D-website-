@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "files": { "includes": ["src/**/*.ts", "src/**/*.tsx", "vite.config.ts"] },
+  "formatter": { "enabled": false },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "preset": "recommended",
+      "style": { "noNonNullAssertion": "off" }
+    }
+  },
+  "overrides": [{
+    "includes": ["src/three/**/*.tsx"],
+    "linter": { "rules": {
+      "a11y": { "noStaticElementInteractions": "off", "useKeyWithClickEvents": "off" },
+      "suspicious": { "noArrayIndexKey": "off" }
+    } }
+  }]
+}

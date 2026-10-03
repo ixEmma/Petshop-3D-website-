@@ -1,0 +1,36 @@
+{
+  "name": "goodkind-ultra",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A cinematic scroll-driven 3D pet boutique with accessible HTML and illustrated fallbacks.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5174 --strictPort",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4174 --strictPort",
+    "verify": "node scripts/verify.cjs",
+    "verify:production": "node scripts/verify-production.cjs",
+    "lint": "biome lint src vite.config.ts"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.1",
+    "gsap": "3.15.0",
+    "lenis": "1.3.26",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "0.182.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.15",
+    "@tailwindcss/vite": "4.3.3",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/three": "0.182.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "tailwindcss": "4.3.3",
+    "typescript": "7.0.2",
+    "vite": "8.3.2"
+  }
+}

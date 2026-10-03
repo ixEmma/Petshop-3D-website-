@@ -1,0 +1,170 @@
+[
+  {
+    "name": "dog-golden-retriever",
+    "source": "E:\\petshop\\goodkind-ultra\\assets\\source\\pets\\dog-golden-retriever.png",
+    "source_bytes": 2670759,
+    "source_size": [
+      1024,
+      1536
+    ],
+    "source_alpha": [
+      0,
+      254
+    ],
+    "generated_filename": "exec-46cd7751-e426-40c7-8a74-c773873029b1.png",
+    "outputs": [
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\dog-golden-retriever.webp",
+        "bytes": 221440,
+        "size": [
+          800,
+          1200
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 42.97
+      },
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\dog-golden-retriever-small.webp",
+        "bytes": 59448,
+        "size": [
+          400,
+          600
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 43.04
+      }
+    ]
+  },
+  {
+    "name": "cat-fluffy",
+    "source": "E:\\petshop\\goodkind-ultra\\assets\\source\\pets\\cat-fluffy.png",
+    "source_bytes": 2646562,
+    "source_size": [
+      1024,
+      1536
+    ],
+    "source_alpha": [
+      0,
+      254
+    ],
+    "generated_filename": "exec-ba204ac4-91e0-4d57-85b7-e2c07b6b553e.png",
+    "outputs": [
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\cat-fluffy.webp",
+        "bytes": 237840,
+        "size": [
+          800,
+          1200
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 35.41
+      },
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\cat-fluffy-small.webp",
+        "bytes": 60826,
+        "size": [
+          400,
+          600
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 35.41
+      }
+    ]
+  },
+  {
+    "name": "rabbit-white",
+    "source": "E:\\petshop\\goodkind-ultra\\assets\\source\\pets\\rabbit-white.png",
+    "source_bytes": 2077803,
+    "source_size": [
+      1024,
+      1536
+    ],
+    "source_alpha": [
+      0,
+      254
+    ],
+    "generated_filename": "exec-f99c8a05-92d8-4577-a600-094f09f9336e.png",
+    "outputs": [
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\rabbit-white.webp",
+        "bytes": 162778,
+        "size": [
+          800,
+          1200
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 47.45
+      },
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\rabbit-white-small.webp",
+        "bytes": 43536,
+        "size": [
+          400,
+          600
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 47.57
+      }
+    ]
+  },
+  {
+    "name": "parrot-colorful",
+    "source": "E:\\petshop\\goodkind-ultra\\assets\\source\\pets\\parrot-colorful.png",
+    "source_bytes": 2272304,
+    "source_size": [
+      1024,
+      1536
+    ],
+    "source_alpha": [
+      0,
+      254
+    ],
+    "generated_filename": "exec-74d11e2e-fef3-48a5-95b7-ffad8042f5e1.png",
+    "outputs": [
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\parrot-colorful.webp",
+        "bytes": 183076,
+        "size": [
+          800,
+          1200
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 61.72
+      },
+      {
+        "path": "E:\\petshop\\goodkind-ultra\\public\\pets\\parrot-colorful-small.webp",
+        "bytes": 52514,
+        "size": [
+          400,
+          600
+        ],
+        "alpha": [
+          0,
+          255
+        ],
+        "fully_transparent_percent": 61.54
+      }
+    ]
+  }
+]
